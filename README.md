@@ -22,7 +22,7 @@ This is the lens which gathers light from the object we want to observe. In a te
 
 In the affoscope, a commercial 62 mm diameter, 700 mm focal length achromat was used. It is housed in a standard 2 inch PVC plumbing component called 'coupling'.
 
-![Objective](https://github.com/matgeor/mat.geo/blob/main/objective.jpeg | width=100)
+![Objective](https://github.com/matgeor/mat.geo/blob/main/objective.jpeg)
 
     \includegraphics[width=1.3in, angle=0]{objective.eps}
     \caption{Objective lens in housing.}
