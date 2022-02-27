@@ -13,8 +13,7 @@ The main components of the telescope are
 
 How each of the components maybe build, is described below. 
 
-
-    \includegraphics[width=1.4in, angle=0]{fullview.eps}
+<img src="https://github.com/matgeor/mat.geo/blob/main/fullview.jpeg" width=50% height=50%>
     \caption{Telescope with stand.}
     
 # Objective
