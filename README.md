@@ -1,8 +1,7 @@
 # Affoscope
-AffoScope, is the shortform for affordable telescope.  It is anticipated as a telescope which can give a decent performance (nice views of planets and moon) on a minimal budget. This is an attempt to enable all those who are interested in building a (starter) telescope themselves. This write up describes how to make your own AffoScope. For the tech saavy, this is a brief description about a DIY 60 mm refractor (f/11.6) telescope.
+AffoScope, is the shortform for an affordable telescope.  It is a telescope which can deliver a decent performance (nice views of planets and moon), but can be setup on a minimal budget. This write up describes how to make your own AffoScope. For the tech saavy, this is a brief description about a DIY 60 mm refractor (f/11.6) telescope. It is anticipated that this write up will enable all those who are interested in building a (starter) telescope themselves.
 
 The main components of the telescope are 
-
 
 - Objective Lens
 - Eyepiece
@@ -32,7 +31,7 @@ Objective lens in housing.
 # Eyepiece
 This is the lens through which the observer sees the object being viewed. Eyepieces are usually made up of several lenses and can be procured as a single piece, which can be inserted into the telescope tube, while using it. The focal length will be very small (10 mm, 25 mm etc.).
 
-In the affoscope a commercial 25 mm eyepiece was used. It is housed in a standard 1 inch PVC plumbing component called 'male  threaded assembly (\emph{MTA}). The threaded assembly allows careful adjustment of the focus. The MTA is screwed into a 'female threaded assembly' (\emph{FTA}) attached to the 1 inch diameter tube.
+In the affoscope a commercial 25 mm eyepiece was used. It is housed in a standard 1 inch PVC plumbing component called 'male  threaded assembly (MTA). The threaded assembly allows careful adjustment of the focus. The MTA is screwed into a 'female threaded assembly' (FTA) attached to the 1 inch diameter tube.
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/eyepiece.jpeg" width="500">
 <p align = "center">
@@ -41,7 +40,7 @@ Eyepiece.
   
 # Focuser
 
-In order for the observer to see the object (which is usually far far away), the image formed by objective has to fall in the object plane (focus) of the eyepiece. In order for this to be facilitated well, we need to have a mechanism (called as \emph{focuser}) with which the separation (length) between objective and eyepiece can be carefully adjusted. This is done, by looking through the eyepiece. Ready made focusers are available in the market. 
+In order for the observer to see the object (which is usually far far away), the image formed by objective has to fall in the object plane (focus) of the eyepiece. In order for this to be facilitated well, we need to have a mechanism (called as focuser) with which the separation (length) between objective and eyepiece can be carefully adjusted. This is done, by looking through the eyepiece. Ready made focusers are available in the market. 
 
 In the affoscope a home made focuser was used. As described above, this is done by using a MTA and FTA. THe eyepiece is kept inside the MTA. The threaded assembly allows careful adjustment of the focus.
 
