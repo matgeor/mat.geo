@@ -15,9 +15,9 @@ How each of the components maybe build, is described below.
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/fullview.jpeg" width="800">
 <p align = "center">
-Fig.1 - 4K Mountains Wallpaper
+Telescope with stand.
 </p>
-    ##Telescope with stand.##
+   
     
 # Objective
 This is the lens which gathers light from the object we want to observe. In a telescope, we usually use a lens with a large focal length (several tens of centimeters), to enable sufficient magnification of the observed object. To deal with chromatic aberration, we need to use an achromat which is combination of lenses (which usually is cemented together). 
@@ -25,7 +25,9 @@ This is the lens which gathers light from the object we want to observe. In a te
 In the affoscope, a commercial 62 mm diameter, 700 mm focal length achromat was used. It is housed in a standard 2 inch PVC plumbing component called 'coupling'.
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/objective.jpeg" width="600">
-\caption{Objective lens in housing.}
+<p align = "center">
+Objective lens in housing.
+</p>
 
 # Eyepiece
 This is the lens through which the observer sees the object being viewed. Eyepieces are usually made up of several lenses and can be procured as a single piece, which can be inserted into the telescope tube, while using it. The focal length will be very small (10 mm, 25 mm etc.).
@@ -33,7 +35,9 @@ This is the lens through which the observer sees the object being viewed. Eyepie
 In the affoscope a commercial 25 mm eyepiece was used. It is housed in a standard 1 inch PVC plumbing component called 'male  threaded assembly (\emph{MTA}). The threaded assembly allows careful adjustment of the focus. The MTA is screwed into a 'female threaded assembly' (\emph{FTA}) attached to the 1 inch diameter tube.
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/eyepiece.jpeg" width="500">
-     \includegraphics[width=1.25in, angle=0]{eyepiece.eps}
+<p align = "center">
+Eyepiece.
+</p>
   
 # Focuser
 
@@ -41,8 +45,12 @@ In order for the observer to see the object (which is usually far far away), the
 
 In the affoscope a home made focuser was used. As described above, this is done by using a MTA and FTA. THe eyepiece is kept inside the MTA. The threaded assembly allows careful adjustment of the focus.
 
+
 <img src="https://github.com/matgeor/mat.geo/blob/main/focuser-split.jpeg" width="500">
-    \caption{Focuser.}
+<p align = "center">
+Focuser.
+</p>
+
      
 # Optical Tube Assembly
 
@@ -51,7 +59,9 @@ In a standard refractor telescope both the objective and eyepiece have to be ali
 In the affoscope a standard 2 inch PVC tube (65 cm, long) and a 1.5 inch tube (10 cm long) were used, to construct the optical tube assembly (OTA). A standard reducer (2 inch to 1.5 inch) was used to connect the pipes. The PVC pipes are painted in black to avoid reflections.
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/ota.jpeg" width="500">
-\caption{Optical tube assembly.}
+<p align = "center">
+Optical Tube Assembly.
+</p>
   
 
 # Stand
@@ -61,7 +71,10 @@ In the affoscope, a low cost design was used. The main component is a GI pipe (o
   
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/stand-split.jpeg" width="800">
-    \caption{Stand components, kept lying on the floor.}
+    <p align = "center">
+Stand components, kept lying on the floor.
+</p>
+
 
 
 # What can be viewed
@@ -69,7 +82,9 @@ In the affoscope, a low cost design was used. The main component is a GI pipe (o
 A standard 60 mm refractor can be used for viewing of many planets as well as moon. With the current telescope, at the time of writing, we could only view moon. A snap of it is included below. 
 
     <img src="https://github.com/matgeor/mat.geo/blob/main/moon.jpeg" width="400">
-    \caption{Moon, shot with a handheld mobile phone.}
+    <p align = "center">
+Moon, shot with a handheld mobile phone..
+</p>
 
 As the shot was made with a mobile phone, the image is a bit blurred. Still craters can be seen around the periphery of the image, which shows the quality of views possible with the telescope. Also, chromatic aberration is not to be seen.
 
