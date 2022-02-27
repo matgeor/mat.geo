@@ -1,4 +1,4 @@
-# Introduction
+# Affoscope
 AffoScope, is the shortform for affordable telescope.  It is anticipated as a telescope which can give a decent performance (nice views of planets and moon) on a minimal budget. This is an attempt to enable all those who are interested in building a (starter) telescope themselves. This write up describes how to make your own AffoScope. For the tech saavy, this is a brief description about a DIY 60 mm refractor (f/11.6) telescope.
 
 The main components of the telescope are 
@@ -14,7 +14,7 @@ The main components of the telescope are
 How each of the components maybe build, is described below. 
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/fullview.jpeg" width="800">
-    \caption{Telescope with stand.}
+    **Telescope with stand.**
     
 # Objective
 This is the lens which gathers light from the object we want to observe. In a telescope, we usually use a lens with a large focal length (several tens of centimeters), to enable sufficient magnification of the observed object. To deal with chromatic aberration, we need to use an achromat which is combination of lenses (which usually is cemented together). 
