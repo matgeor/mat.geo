@@ -81,7 +81,7 @@ Stand components, kept lying on the floor.
 
 A standard 60 mm refractor can be used for viewing of many planets as well as moon. With the current telescope, at the time of writing, we could only view moon. A snap of it is included below. 
 
-<img src="https://github.com/matgeor/mat.geo/blob/main/stand-split.jpeg" width="800">
+<img src="https://github.com/matgeor/mat.geo/blob/main/moon.jpeg" width="800">
     <p align = "center">
 Stand components, kept lying on the floor.
 </p>
