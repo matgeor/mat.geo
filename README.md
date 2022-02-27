@@ -23,11 +23,7 @@ This is the lens which gathers light from the object we want to observe. In a te
 In the affoscope, a commercial 62 mm diameter, 700 mm focal length achromat was used. It is housed in a standard 2 inch PVC plumbing component called 'coupling'.
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/objective.jpeg" width=50% height=50%>
-
-![Objective](https://github.com/matgeor/mat.geo/blob/main/objective.jpeg)
-
-    \includegraphics[width=1.3in, angle=0]{objective.eps}
-    \caption{Objective lens in housing.}
+\caption{Objective lens in housing.}
 
 # Eyepiece
 This is the lens through which the observer sees the object being viewed. Eyepieces are usually made up of several lenses and can be procured as a single piece, which can be inserted into the telescope tube, while using it. The focal length will be very small (10 mm, 25 mm etc.).
