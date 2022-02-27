@@ -14,6 +14,9 @@ The main components of the telescope are
 How each of the components maybe build, is described below. 
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/fullview.jpeg" width="800">
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
     ##Telescope with stand.##
     
 # Objective
