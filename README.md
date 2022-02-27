@@ -83,14 +83,7 @@ A standard 60 mm refractor can be used for viewing of many planets as well as mo
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/moon.jpeg" width="800">
     <p align = "center">
-Stand components, kept lying on the floor.
-</p>
-
-
-
-    <img src="https://github.com/matgeor/mat.geo/blob/main/moon.jpeg" width="400">
-    <p align = "center">
-Moon, shot with a handheld mobile phone.
+Moon, shot with a handheld mobile phone..
 </p>
 
 As the shot was made with a mobile phone, the image is a bit blurred. Still craters can be seen around the periphery of the image, which shows the quality of views possible with the telescope. Also, chromatic aberration is not to be seen.
