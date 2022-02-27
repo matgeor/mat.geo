@@ -14,7 +14,7 @@ The main components of the telescope are
 How each of the components maybe build, is described below. 
 
 <img src="https://github.com/matgeor/mat.geo/blob/main/fullview.jpeg" width="800">
-    **Telescope with stand.**
+    ##Telescope with stand.##
     
 # Objective
 This is the lens which gathers light from the object we want to observe. In a telescope, we usually use a lens with a large focal length (several tens of centimeters), to enable sufficient magnification of the observed object. To deal with chromatic aberration, we need to use an achromat which is combination of lenses (which usually is cemented together). 
