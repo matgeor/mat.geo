@@ -13,7 +13,7 @@ The main components of the telescope are
 
 How each of the components maybe build, is described below. 
 
-<img src="https://github.com/matgeor/mat.geo/blob/main/fullview.jpeg" width="900">
+<img src="https://github.com/matgeor/mat.geo/blob/main/fullview.jpeg" width="800">
     \caption{Telescope with stand.}
     
 # Objective
@@ -21,7 +21,7 @@ This is the lens which gathers light from the object we want to observe. In a te
 
 In the affoscope, a commercial 62 mm diameter, 700 mm focal length achromat was used. It is housed in a standard 2 inch PVC plumbing component called 'coupling'.
 
-<img src="https://github.com/matgeor/mat.geo/blob/main/objective.jpeg" width=50% height=50%>
+<img src="https://github.com/matgeor/mat.geo/blob/main/fullview.jpeg" width="600">
 \caption{Objective lens in housing.}
 
 # Eyepiece
@@ -29,6 +29,7 @@ This is the lens through which the observer sees the object being viewed. Eyepie
 
 In the affoscope a commercial 25 mm eyepiece was used. It is housed in a standard 1 inch PVC plumbing component called 'male  threaded assembly (\emph{MTA}). The threaded assembly allows careful adjustment of the focus. The MTA is screwed into a 'female threaded assembly' (\emph{FTA}) attached to the 1 inch diameter tube.
 
+<img src="https://github.com/matgeor/mat.geo/blob/main/eyepiece.jpeg" width="500">
      \includegraphics[width=1.25in, angle=0]{eyepiece.eps}
   
 # Focuser
