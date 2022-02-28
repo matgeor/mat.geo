@@ -112,7 +112,7 @@ As the shot was made with a mobile phone, the image is a bit blurred. Still crat
 ## Concluding remarks
 This write up is made, hoping that many will be benefitted. 
 
-A big thanks to Ashalakshmi K V, who built the telescope, described here. The design given here is a slightly modified version of that described by [IUCAA}(http://scipop.iucaa.in/Obsetion/simple_telescope.htm) and [https://astronomyhints.braintidbits.com](https://astronomyhints.braintidbits.com/photos60.html). 
+A big thanks to Ashalakshmi K V, who built the telescope, described here. The design given here is a slightly modified version of that described by [IUCAA](http://scipop.iucaa.in/Obsetion/simple_telescope.htm) and [https://astronomyhints.braintidbits.com](https://astronomyhints.braintidbits.com/photos60.html). 
 
 If any of the readers need any guidance in assembling an affoscope, feel free to contact us.
 
