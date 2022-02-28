@@ -1,5 +1,5 @@
 # Affoscope
-AffoScope, is the shortform for an affordable telescope.  It is a telescope which can deliver a decent performance (nice views of planets and moon), but can be setup on a minimal budget. This write up describes how to make your own AffoScope. For the tech saavy, this is a brief description about a DIY 60 mm refractor (f/11.6) telescope. It is anticipated that this write up will enable all those who are interested in building a (starter) telescope themselves.
+AffoScope, is the shortform for an affordable telescope.  It is a telescope which can deliver a decent performance (nice views of planets and moon), but can be setup on a minimal budget. This write up describes how to make your own AffoScope. For the tech saavy, this is a brief description about a DIY 60 mm refractor (f/11.6) telescope. One can find many such descriptions on building a low cost refractor, as generations of amateur astronomers have built and setup such low cost telescopes. It is anticipated that this write up will enable all those who are interested in building a (starter) telescope themselves.
 
 The main components of the telescope are 
 
@@ -110,7 +110,11 @@ As the shot was made with a mobile phone, the image is a bit blurred. Still crat
 
 
 ## Concluding remarks
-This write up is made, hoping that many will be benefitted. A big thanks to Ashalakshmi KV, who built the telescope. If any of the readers need any guidance in assembling an affoscope, feel free to contact us.
+This write up is made, hoping that many will be benefitted. 
+
+A big thanks to Ashalakshmi K V, who built the telescope, described here. The design given here is a slightly modified version of that described by [IUCAA}(http://scipop.iucaa.in/Obsetion/simple_telescope.htm) and [https://astronomyhints.braintidbits.com](https://astronomyhints.braintidbits.com/photos60.html). 
+
+If any of the readers need any guidance in assembling an affoscope, feel free to contact us.
 
 
 
